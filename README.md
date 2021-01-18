@@ -1,33 +1,3 @@
-# Top-down learning path: Machine Learning for Software Engineers
-
-<p align="center">
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
-    <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-</p>
-
-Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university).
-
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md) | [臺灣華語版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-TW.md)
-
-[How I (Nam Vu) plan to become a machine learning engineer](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
-
-## What is it?
-
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
-
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
-
-Please, feel free to make any contributions you feel will make it better.
-
----
 
 ## Table of Contents
 
