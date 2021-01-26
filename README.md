@@ -58,7 +58,7 @@ I think the best way for practice-focused methodology is something like ['practi
 ## How to use it
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+I'm using the Github's special markdown flavor, including tasks lists to check progress.
 
 - [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
